@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Harsh Pilania
 
 ## 🚀 Data Scientist | AI Enthusiast 
+[🌐 Portfolio Website](https://harsh-pilania-portfolio.netlify.app/) 
 
 Welcome to my GitHub! I'm a passionate Data Science with hands-on experience in building AI-powered applications and transforming data into actionable insights. Currently exploring the cutting edge of Generative AI and AI Agents.
 
