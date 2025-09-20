@@ -70,20 +70,6 @@ Welcome to my GitHub! I'm a passionate Data Science graduate with hands-on exper
 - IBM Data Science Professional Certificate (Coursera) - Jan 2024
 - Google Analytics for Beginners (Google) - Apr 2024
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh2115411&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh2115411&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh2115411&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
 
 ## 🎯 Currently Working On
 
