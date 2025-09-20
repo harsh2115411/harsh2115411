@@ -2,7 +2,7 @@
 
 ## 🚀 Data Scientist | AI Enthusiast | Problem Solver
 
-Welcome to my GitHub! I'm a passionate Data Science with hands-on experience in building AI-powered applications and transforming data into actionable insights. Currently exploring the cutting edge of Generative AI and RAG systems.
+Welcome to my GitHub! I'm a passionate Data Science with hands-on experience in building AI-powered applications and transforming data into actionable insights. Currently exploring the cutting edge of Generative AI and AI Agents.
 
 ### 🎯 What I Do
 - **AI-Powered Applications**: Building intelligent systems using LLMs and RAG architecture
