@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Harsh Pilania
 
-## 🚀 Data Scientist | AI Enthusiast | Problem Solver
+## 🚀 Data Scientist | AI Enthusiast 
 
 Welcome to my GitHub! I'm a passionate Data Science with hands-on experience in building AI-powered applications and transforming data into actionable insights. Currently exploring the cutting edge of Generative AI and AI Agents.
 
