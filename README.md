@@ -43,7 +43,6 @@ Welcome to my GitHub! I'm a passionate Data Science graduate with hands-on exper
 - Collaborated with cross-functional teams to transform raw data into actionable business insights
 - Utilized SQL, PL/SQL, Power BI, and Looker Studio for comprehensive data analysis
 
----
 
 ## 🎓 Education & Certifications
 
@@ -64,8 +63,3 @@ I'm always excited to collaborate on innovative projects and discuss the latest 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harsh2115411)
 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsh2115411&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-**⭐ "Turning data into decisions, one algorithm at a time"** ⭐
