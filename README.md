@@ -36,22 +36,6 @@ Welcome to my GitHub! I'm a passionate Data Science graduate with hands-on exper
 
 ---
 
-## 🌟 Featured Projects
-
-### 🎓 [NotesAI - Smart Learning Assistant](https://github.com/harsh2115411/notesai)
-**Transform any content into an intelligent tutoring system**
-- **Tech**: Streamlit, LangChain, FAISS, OpenAI Embeddings, Llama, Groq
-- **Features**: Multi-source content processing (YouTube, PDFs, web pages), RAG architecture, conversational memory
-- **Impact**: Automated summarization, quiz generation, and contextual Q&A for enhanced learning
-
-### 📄 [ResumeMatchAI - Smart ATS Evaluation](https://github.com/harsh2115411/resumematchai)
-**AI-powered resume optimization and ATS compatibility analysis**
-- **Tech**: Python, Streamlit, LLaMA 3.3, PyPDF2, LangChain
-- **Features**: Skills gap detection, ATS scoring, personalized career advice
-- **Impact**: Real-time feedback system for resume optimization and job matching
-
----
-
 ## 💼 Professional Experience
 
 **🏢 Digital Analytics Intern @ Cognizant Technology Solutions** *(April 2025 - August 2025)*
@@ -71,15 +55,6 @@ Welcome to my GitHub! I'm a passionate Data Science graduate with hands-on exper
 - Google Analytics for Beginners (Google) - Apr 2024
 
 
-## 🎯 Currently Working On
-
-- 🤖 Advanced RAG systems for enterprise applications
-- 📊 Real-time data processing pipelines
-- 🧠 Exploring multimodal AI applications
-- 🔍 Contributing to open-source AI projects
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on innovative projects and discuss the latest in AI and data science!
@@ -88,15 +63,6 @@ I'm always excited to collaborate on innovative projects and discuss the latest 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshpilania2001@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harsh2115411)
 
----
-
-### 💡 Fun Facts
-- 🌱 Always learning new AI technologies and frameworks
-- 🎯 Passionate about solving real-world problems with data
-- 🚀 Believer in the power of open-source collaboration
-- 📚 Love transforming complex data into simple, actionable insights
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=harsh2115411&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
